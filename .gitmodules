@@ -1,0 +1,3 @@
+[submodule "FEAplusplus"]
+	path = FEAplusplus
+	url = https://github.com/Mohammadreza-Farkhondeh/FEAplusplus.git
